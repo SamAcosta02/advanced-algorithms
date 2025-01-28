@@ -8,6 +8,6 @@ Algorithms implemented:
 * <strong>Voronoi Diagram with Delaunay Triangulation:</strong> Built custom Point, Segment, and Polygon classes to create geometric primitives and methods like distance calculations and circumcircle construction.
 
 Team members:
-Samuel Acosta Ugarte
-Diego Esparza Hurtado
-Alejandro Lizárraga Vizcarra
+* Samuel Acosta Ugarte
+* Diego Esparza Hurtado
+* Alejandro Lizárraga Vizcarra
